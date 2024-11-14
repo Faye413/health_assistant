@@ -1,0 +1,4 @@
+1. pip install .
+2. create .env and add your openai key: OPENAI_API_KEY=""
+3. python -m health_assistant.main
+
